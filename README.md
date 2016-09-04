@@ -1,0 +1,2 @@
+# MusicCraft
+Minecraft Bukkit Plugin
